@@ -61,11 +61,15 @@ The dashboard answers critical business questions such as:
 - **Customer Retention:** The 3.12% repeat customer rate is low. Recommendation: Implement a customer loyalty program or targeted email campaigns to increase CLV (Customer Lifetime Value).
 - **Marketing Channels:** Organic Search outperforms Paid Search in revenue. Recommendation: Re-evaluate the budget allocation between paid and organic channels to maximize ROI.
 
-## 🚀 How to Use the Dashboard
-1.  Download the `.pbix` file from this repository.
-2.  Open it in Power BI Desktop (Ensure you have the latest version installed).
-3.  Interact with the slicers on the left sidebar (Month/Year) to filter data dynamically.
-4.  Click the navigation buttons on the sidebar to switch between dashboards.
+## ⚙️ How to Run This Project
+Due to GitHub file size limitations, the Power BI (.pbix) file is hosted externally.
+
+**To view the full interactive dashboard:**
+1. Download the `.pbix` file from the link below.
+2. Open it using **Power BI Desktop** (Free version available from Microsoft).
+3. Interact with the slicers and navigation buttons to explore the data.
+
+📁 **Download the Power BI file:** [Google Drive Link](https://drive.google.com/file/d/1YWmJ58WMzQEicbE7ZUiomNvIIHGOqlyW/view?usp=drive_link)
 
 ## 💬 Feedback
 I am open to feedback and suggestions for improvement! If you have any questions about the DAX measures used or the data modeling process, please feel free to reach out or open an issue in this repository.
